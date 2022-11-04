@@ -1,2 +1,0 @@
-# secrets-test
-testing
